@@ -1,7 +1,7 @@
 # Appointment-Service
 
 ## Description
-The Appointment-Service is an integral part of the Mobile-Application project, designed to manage and maintain appointments efficiently. It consists of four primary Java files:
+The Appointment-Service is an integral part of the [Mobile-Application](https://www.github.com/xSova/Mobile-Application) project, designed to manage and maintain appointments efficiently. It consists of four primary Java files:
 - `Appointment.java`: Defines the Appointment model.
 - `AppointmentService.java`: Handles the business logic for appointments.
 - `AppointmentTest.java`: Contains unit tests for the Appointment model.
